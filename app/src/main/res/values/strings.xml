@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A7s212021prac6</string>
+    <string name="titulocelular">CELULAR</string>
+    <string name="vhorizontal">HORIZONTAL</string>
+    <string name="vvertical">VERTICAL</string>
+    <string name="imgcandado">candado</string>
+    <string name="imgestrella">estrella</string>
+    <string name="imgcam">video cam</string>
+    <string name="titulotablet">TABLETA</string>
+</resources>
